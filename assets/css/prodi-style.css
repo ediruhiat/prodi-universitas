@@ -1,0 +1,13 @@
+body {
+    background-color: #F1F1F1;
+}
+
+.pagination {
+    padding: 0;
+}
+
+.nb {
+    font-weight: bold;
+    color: #b2b2b2;
+    letter-spacing: 1px;
+}
