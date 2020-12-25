@@ -1,0 +1,17 @@
+{
+    "name": "edi/prodi",
+    "description": "Plugin prodi Universitas",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Edi R.",
+            "email": "edlr@windowslive.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc", "Templates\\": "./templates"}
+    }
+}
